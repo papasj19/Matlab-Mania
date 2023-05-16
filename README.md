@@ -10,20 +10,17 @@ The following explanation is in conjunction with the second project in statistic
 * [Matlab](https://matlab.mathworks.com)
     * This project was entirely developed on the web version
 
-## Resources
+## What the project contains
 
-* 
-```bash
-$ matlab code.m
-```
-* Python libraries:
+* code.m (the code completed by our group)
+* resources (the functions used in the solved code that were given to us)
     * crossDeleteWords.m 
     * generaBagOfWords.m
     * P2.m
     * preparaDades.m
     * separaHamSpam.m
     * separaTrainTest.m
-    * smsspamcollection
+    * smsspamcollection (a folder inside resources with the data)
         * readme
         * SMSSpamCollection
 
