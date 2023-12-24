@@ -19,7 +19,7 @@ The following repositiory is used for the math practices throughout university
 * Spam Filter (Statistics)
 * Given a series of strings, our system will classify them
     * code.m (the code completed by our group)
-    * resources (the functions used in the solved code that were given to us)
+    * resources (a folder of resources provided to utilize)
     
 ## Contact
 
