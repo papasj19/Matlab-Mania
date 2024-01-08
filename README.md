@@ -12,14 +12,14 @@ The following repositiory is used for the math practices throughout university
 ## Related Packages
 
 * Multivariable Optimization (Calculus)
-* Given a function of x and y, we will use a descent algorithm to determine when the function has convered a minima
-    * Generate_fxy.m
-    * Gradient_Descent-2.m
+    * Given a function of x and y, we will use a descent algorithm to determine when the function has convered a minima
+        * Generate_fxy.m
+        * Gradient_Descent-2.m
 
 * Spam Filter (Statistics)
-* Given a series of strings, our system will classify them
-    * code.m (the code completed by our group)
-    * resources (a folder of resources provided to utilize)
+    * Given a set of strings, our system will classify them as spam messages or normal messages
+        * code.m (the code completed by our group)
+        * resources (a folder of resources provided to utilize)
     
 ## Contact
 
